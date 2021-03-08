@@ -1,202 +1,101 @@
---  ITEMS
-
-INSERT INTO Items VALUES
-(1, Papayas, 578, Rp. 12000,00-);
-INSERT INTO Items VALUES
-(2, Beef - Tender Tips, 28, Rp. 168000,00-);
-INSERT INTO Items VALUES
-(3, Duck - Fat, 80, Rp. 45999,00-);
-INSERT INTO Items VALUES
-(4, Potatoes - Purple,  Organic, Rp. 120,00-);
-INSERT INTO Items VALUES
-(5, Coconut,  Sweet, Rp. 633,00-);
-INSERT INTO Items VALUES
-(6, Veal - Slab Bacon, 200, Rp. 35000,00-);
-INSERT INTO Items VALUES
-(7, Placemat - Scallop,  White, Rp. 111,00-);
-INSERT INTO Items VALUES
-(8, Flour - Strong Pizza, 80, Rp. 39999,00-);
-INSERT INTO Items VALUES
-(9, Milk - Skim, 500, Rp. 19000,00-);
-INSERT INTO Items VALUES
-(10, Leeks - Large, 200, Rp. 6000,00-);
-INSERT INTO Items VALUES
-(11, Container - Foam Dixie 12 Oz, 450, Rp. 11909,00-);
-INSERT INTO Items VALUES
-(12, Corn Shoots, 615, Rp. 22000,00-);
-INSERT INTO Items VALUES
-(13, Muffin - Zero Transfat, 340, Rp. 36000,00-);
-INSERT INTO Items VALUES
-(14, Sole - Dover,  Whole, Rp.  Fresh,00-);
-INSERT INTO Items VALUES
-(15, Jolt Cola - Electric Blue, 300, Rp. 17000,00-);
-INSERT INTO Items VALUES
-(16, Turkey - Whole,  Fresh, Rp. 20,00-);
-INSERT INTO Items VALUES
-(17, Tea - Mint, 317, Rp. 18000,00-);
-INSERT INTO Items VALUES
-(18, Coriander - Seed, 340, Rp. 10000,00-);
-INSERT INTO Items VALUES
-(19, Bok Choy - Baby, 120, Rp. 14000,00-);
-INSERT INTO Items VALUES
-(20, Wine - Fontanafredda Barolo, 300, Rp. 70000,00-);
-INSERT INTO Items VALUES
-(21, Wine - Red,  Wolf Blass, Rp.  Yellow,00-);
-INSERT INTO Items VALUES
-(22, Snapple - Iced Tea Peach, 200, Rp. 28000,00-);
-INSERT INTO Items VALUES
-(23, Cake - Miini Cheesecake Cherry, 195, Rp. 38000,00-);
-INSERT INTO Items VALUES
-(24, Melon - Cantaloupe, 80, Rp. 24000,00-);
-INSERT INTO Items VALUES
-(25, Tea - Herbal I Love Lemon, 133, Rp. 49000,00-);
-INSERT INTO Items VALUES
-(26, Bandage - Flexible Neon, 515, Rp. 7000,00-);
-INSERT INTO Items VALUES
-(27, Wine - Cahors Ac 2000,  Clos, Rp. 80,00-);
-INSERT INTO Items VALUES
-(28, Beer - Sleemans Cream Ale, 160, Rp. 90000,00-);
-INSERT INTO Items VALUES
-(29, Sultanas, 670, Rp. 32000,00-);
-INSERT INTO Items VALUES
-(30, Truffle - Whole Black Peeled, 120, Rp. 18000,00-);
-INSERT INTO Items VALUES
-(31, Oil - Canola, 80, Rp. 90000,00-);
-INSERT INTO Items VALUES
-(32, Wild Boar - Tenderloin, 135, Rp. 250000,00-);
-INSERT INTO Items VALUES
-(33, Fish - Bones120, 30500, Rp. None,00-);
-INSERT INTO Items VALUES
-(34, Tequila Rose Cream Liquor, 355, Rp. 150000,00-);
-INSERT INTO Items VALUES
-(35, Eggroll, 150, Rp. 22000,00-);
-INSERT INTO Items VALUES
-(36, Lid 16 Oz, 144, Rp. 80000,00-);
-INSERT INTO Items VALUES
-(37, Sproutsmustard Cress, 324, Rp. 48000,00-);
-INSERT INTO Items VALUES
-(38, Creme De Cacao Mcguines, 300, Rp. 56000,00-);
-INSERT INTO Items VALUES
-(39, Haggis, 200, Rp. 36000,00-);
-INSERT INTO Items VALUES
-(40, Longan, 250, Rp. 20000,00-);
-INSERT INTO Items VALUES
-(41, Sauce Bbq Smokey, 382, Rp. 28000,00-);
-INSERT INTO Items VALUES
-(42, Godiva White Chocolate, 240, Rp. 19000,00-);
-INSERT INTO Items VALUES
-(43, Trout - Rainbow,  Frozen, Rp. 300,00-);
-INSERT INTO Items VALUES
-(44, Banana - Green, 500, Rp. 27000,00-);
-INSERT INTO Items VALUES
-(45, Curry Powder Madras, 377, Rp. 8000,00-);
-INSERT INTO Items VALUES
-(46, Bread - Italian Roll With Herbs, 80, Rp. 12000,00-);
-INSERT INTO Items VALUES
-(47, Peach - Fresh, 210, Rp. 22000,00-);
-INSERT INTO Items VALUES
-(48, Chinese Foods - Plain Fried Rice, 340, Rp. 47700,00-);
-INSERT INTO Items VALUES
-(49, Ostrich - Prime Cut, 750, Rp. 10462,00-);
-INSERT INTO Items VALUES
-(50, Flour - Pastry, 53, Rp. 47714,00-);
-INSERT INTO Items VALUES
-(51, Lamb - Bones, 720, Rp. 33631,00-);
-INSERT INTO Items VALUES
-(52, Juice - Tomato,  48 Oz, Rp. 590,00-);
-INSERT INTO Items VALUES
-(53, 'Salmon - Whole,  4 - 6 Pounds', Rp. 569,00-);
-INSERT INTO Items VALUES
-(54, Pecan Raisin - Tarts, 121, Rp. 25159,00-);
-INSERT INTO Items VALUES
-(55, Tequila - Sauza Silver, 620, Rp. 31166,00-);
-INSERT INTO Items VALUES
-(56, Jolt Cola - Electric Blue, 626, Rp. 23563,00-);
-INSERT INTO Items VALUES
-(57, Neckerchief Blck, 761, Rp. 25741,00-);
-INSERT INTO Items VALUES
-(58, Tomato Paste, 192, Rp. 38281,00-);
-INSERT INTO Items VALUES
-(59, Pepper - Green, 39, Rp. 27910,00-);
-INSERT INTO Items VALUES
-(60, Potato - Sweet, 646, Rp. 5843,00-);
-INSERT INTO Items VALUES
-(61, Apple - Fuji, 171, Rp. 24786,00-);
-INSERT INTO Items VALUES
-(62, Pork - European Side Bacon, 312, Rp. 32735,00-);
-INSERT INTO Items VALUES
-(63, 'Nut - Pecan,  Pieces', Rp. 396,00-);
-INSERT INTO Items VALUES
-(64, Bread - Triangle White, 406, Rp. 24553,00-);
-INSERT INTO Items VALUES
-(65, 'Pork - Tenderloin,  Fresh', Rp. 237,00-);
-INSERT INTO Items VALUES
-(66, 'Chicken - Wings,  Tip Off', Rp. 363,00-);
-INSERT INTO Items VALUES
-(67, Bagel - Whole White Sesame, 143, Rp. 36856,00-);
-INSERT INTO Items VALUES
-(68, 'Soup - French Onion,  Dry', Rp. 157,00-);
-INSERT INTO Items VALUES
-(69, Coffee Guatemala Dark, 125, Rp. 48723,00-);
-INSERT INTO Items VALUES
-(70, Sauce - Rosee, 337, Rp. 47269,00-);
-INSERT INTO Items VALUES
-(71, Kahlua, 686, Rp. 30605,00-);
-INSERT INTO Items VALUES
-(72, Water - Green Tea Refresher, 128, Rp. 45198,00-);
-INSERT INTO Items VALUES
-(73, Bread - Italian Roll With Herbs, 306, Rp. 22017,00-);
-INSERT INTO Items VALUES
-(74, 'Coke - Classic,  355 Ml', Rp. 573,00-);
-INSERT INTO Items VALUES
-(75, Bar Mix - Lime, 8, Rp. 6767,00-);
-INSERT INTO Items VALUES
-(76, Sauce - Vodka Blush, 344, Rp. 39705,00-);
-INSERT INTO Items VALUES
-(77, Pastry - Apple Muffins - Mini, 71, Rp. 26790,00-);
-INSERT INTO Items VALUES
-(78, Veal - Loin, 740, Rp. 29506,00-);
-INSERT INTO Items VALUES
-(79, 'Beef - Roasted,  Cooked', Rp. 130,00-);
-INSERT INTO Items VALUES
-(80, Plate Foam Laminated 9in Blk, 758, Rp. 4990,00-);
-INSERT INTO Items VALUES
-(81, 'Lettuce - Mini Greens,  Whole', Rp. 156,00-);
-INSERT INTO Items VALUES
-(82, Glass Clear 7 Oz Xl, 397, Rp. 2902,00-);
-INSERT INTO Items VALUES
-(83, Papadam, 448, Rp. 34998,00-);
-INSERT INTO Items VALUES
-(84, Chocolate - Mi - Amere Semi, 440, Rp. 49640,00-);
-INSERT INTO Items VALUES
-(85, 'Oregano - Dry,  Rubbed', Rp. 678,00-);
-INSERT INTO Items VALUES
-(86, Sprite - 355 Ml, 599, Rp. 23867,00-);
-INSERT INTO Items VALUES
-(87, 'Juice - Apple,  1.36l', Rp. 223,00-);
-INSERT INTO Items VALUES
-(88, 'Noodles - Cellophane,  Thin', Rp. 751,00-);
-INSERT INTO Items VALUES
-(89, Cauliflower, 81, Rp. 26303,00-);
-INSERT INTO Items VALUES
-(90, Dasheen, 683, Rp. 48407,00-);
-INSERT INTO Items VALUES
-(91, Sprouts - Brussel, 672, Rp. 2118,00-);
-INSERT INTO Items VALUES
-(92, Cake - Mini Cheesecake, 558, Rp. 17996,00-);
-INSERT INTO Items VALUES
-(93, Amarula Cream, 285, Rp. 3552,00-);
-INSERT INTO Items VALUES
-(94, 'Tea - Darjeeling,  Azzura', Rp. 8,00-);
-INSERT INTO Items VALUES
-(95, Capon - Whole, 361, Rp. 4664,00-);
-INSERT INTO Items VALUES
-(96, Langers - Ruby Red Grapfruit, 131, Rp. 38107,00-);
-INSERT INTO Items VALUES
-(97, Sping Loaded Cup Dispenser, 250, Rp. 17976,00-);
-INSERT INTO Items VALUES
-(98, Bread, 125, Rp. 44736,00-);
-INSERT INTO Items VALUES
-(99, Rabbit - Legs, 177, Rp. 37933,00-);
-INSERT INTO Items VALUES
-(100, Skirt - 24 Foot, 165, Rp. 41729,00-);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Mackerel Whole Fresh', 3, 10203);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Mace', 27, 5694);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef - Ox Tail, Frozen', 25, 9041);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Chateauneuf Du Pape', 12, 7349);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Tortillas - Flour, 12', 50, 12867);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Capers - Pickled', 55, 10040);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Foil Cont Round', 19, 12843);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Bread - Petit Baguette', 26, 14014);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Devonshire Cream', 23, 5305);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef - Striploin Aa', 86, 6675);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef Wellington', 28, 14820);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Grapes - Black', 6, 9800);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Red, Pinot Noir, Chateau', 2, 12423);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Ice Cream - Vanilla', 87, 12883);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beer - Heinekin', 35, 7750);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wonton Wrappers', 6, 6693);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cleaner - Comet', 75, 12908);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Red Pepper Paste', 44, 14573);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Potatoes - Mini White 3 Oz', 100, 14361);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Apples - Sliced / Wedge', 10, 8304);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Flower - Leather Leaf Fern', 101, 10137);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Glass Clear 7 Oz Xl', 101, 14777);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Soup - Campbells, Lentil', 21, 13716);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Syrup - Monin, Amaretta', 75, 11312);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Rappini - Andy Boy', 5, 6276);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Pork - Inside', 50, 13030);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Pepper - Black, Crushed', 83, 13315);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Campari', 53, 6904);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Potatoes - Mini Red', 83, 13484);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Kiwi Gold Zespri', 101, 8210);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cheese - Goat With Herbs', 75, 7803);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Lid - 16 Oz And 32 Oz', 99, 10699);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Montecillo Rioja Crianza', 25, 9261);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Magnotta - Belpaese', 24, 6648);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Soup Bowl Clear 8oz92008', 94, 6451);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Bread Crumbs - Panko', 79, 11787);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cheese - Cheddar, Medium', 91, 12343);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Salmon Steak - Cohoe 6 Oz', 66, 10273);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Two Oceans Sauvignon', 87, 14826);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Alize Red Passion', 78, 12475);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Lamb - Shanks', 36, 8084);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Sauce - Mint', 82, 14318);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cloves - Ground', 41, 14730);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Tamarillo', 54, 7592);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Bourgogne 2002, La', 7, 10800);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Ecolab Crystal Fusion', 39, 9265);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Chicken - White Meat, No Tender', 28, 6241);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Lettuce - Red Leaf', 9, 6111);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Peller Estates Late', 34, 6050);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Split Peas - Yellow, Dry', 5, 13925);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('White Fish - Filets', 31, 14359);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef - Top Sirloin - Aaa', 57, 7302);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Chevere Logs', 82, 7504);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef - Top Sirloin', 49, 14765);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Bread - Rye', 75, 9251);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Prosecco Valdobiaddene', 75, 9196);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Fat Bastard Merlot', 16, 13051);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Carbonated Water - White Grape', 51, 12123);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Rice - Wild', 77, 5582);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Jameson - Irish Whiskey', 63, 8236);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Ham - Proscuitto', 40, 11609);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Calypso - Strawberry Lemonade', 77, 8941);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Chicken Thigh - Bone Out', 85, 14238);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Hold Up Tool Storage Rack', 101, 9584);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cheese - Mozzarella', 34, 9665);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef - Outside, Round', 10, 12397);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Muffin Mix - Oatmeal', 68, 5825);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Food Colouring - Green', 1, 9949);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Herb Du Provence - Primerba', 52, 13595);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Longan', 6, 9937);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Ice Wine', 46, 11262);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Chicken Breast Halal', 41, 13250);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Piping - Bags Quizna', 61, 10029);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Initation Crab Meat', 7, 6946);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Chinese Lemon Pork', 100, 5459);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef - Rib Roast, Capless', 71, 13942);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cucumber - Pickling Ontario', 96, 13428);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Wine - Redchard Merritt', 68, 14683);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Chocolate - Compound Coating', 4, 11977);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Bread Base - Toscano', 30, 13466);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cheese - Havarti, Salsa', 85, 5939);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cheese - St. Andre', 71, 7929);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Leeks - Baby, White', 70, 6172);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Sugar - Fine', 55, 11300);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Water - Mineral, Carbonated', 25, 11385);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Pork - Belly Fresh', 35, 8881);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Mousse - Mango', 66, 9169);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Vodka - Smirnoff', 23, 8878);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Tea - Lemon Scented', 43, 13387);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Cheese - Wine', 62, 13829);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Pork - Butt, Boneless', 84, 10339);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Oil - Truffle, Black', 19, 8108);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Pineapple - Canned, Rings', 3, 8430);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Clams - Littleneck, Whole', 31, 8331);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Tortillas - Flour, 12', 56, 10267);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Tea - Herbal Sweet Dreams', 57, 9896);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Orange - Tangerine', 10, 7439);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Onions - Red', 73, 14496);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Beef - Striploin', 64, 9389);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Flower - Leather Leaf Fern', 48, 5692);
+insert into Items (Item_Name, Item_Stock, Item_Price) values ('Lobster - Tail, 3 - 4 Oz', 89, 11912);
