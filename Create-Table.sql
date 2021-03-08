@@ -9,8 +9,9 @@ CREATE TABLE Costumer (
 CREATE TABLE Items (
     ID_Items        int NOT NULL AUTO_INCREMENT,
     Item_Name       VARCHAR(50),
-    Item_Price      VARCHAR(50),
     Item_Stock      int,
+    Item_Price      int,
+    
     PRIMARY KEY(ID_Items)
 );
 
