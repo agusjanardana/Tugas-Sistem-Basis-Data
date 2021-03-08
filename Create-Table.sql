@@ -9,7 +9,7 @@ CREATE TABLE Costumer (
 CREATE TABLE Items (
     ID_Items        int NOT NULL AUTO_INCREMENT,
     Item_Name       VARCHAR(50),
-    Item_Price      int,
+    Item_Price      VARCHAR2(50),
     Item_Stock      int,
     PRIMARY KEY(ID_Items)
 );
