@@ -1,9 +1,0 @@
--- SOAL NO 2.
--- NON KEY ( string )
---  1 tabel mungkin SELECT * from Costumer_Address = Bali; ( soal no 2a)
---  2 tabel non key
---  SELECT costumer.Costumer_Name, transaction.Keterangan FROM costumer,transaction WHERE costumer.ID_Costumer = transaction.ID_Costumer;
---  MENAMPILKAN Costumer Name dan Keterangan transaksinya.
--- 3 tabel non key
---  JOIN : SELECT Costumer.Costumer_Name, Items.Item_name, transaction.Keterangan FROM costumer,items,transaction WHERE items.ID_Items = transaction.ID_Items AND costumer.ID_Costumer = transaction.ID_Costumer
--- Menampilkan Costumer name, item name, dan keterangan transaksi dari 3 tabel. 
